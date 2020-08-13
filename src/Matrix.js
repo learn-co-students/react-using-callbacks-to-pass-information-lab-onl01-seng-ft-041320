@@ -30,5 +30,5 @@ export default class Matrix extends Component {
 }
 
 Matrix.defaultProps = {
-  values: learnSymbol
+  values: learnSymbol !
 }
